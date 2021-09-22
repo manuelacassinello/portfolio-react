@@ -1,7 +1,122 @@
+
+
 .topbar{
   width: 100%;
   height: 70px;
   background-color: black;
+  color:white;
   position: fixed;
   top: 0;
+  z-index: 2;
+  text-decoration: none;
+
+
+  .wrapper{
+     padding: 10px 30px;
+     display: flex;
+     align-items: center;
+     justify-content: space-between;
+     margin-top: 10px;
+
+     .left{
+       display: flex;
+       align-items: center;
+
+
+      .logo{
+        font-size: 14px;
+        text-decoration: none;
+        color:white;
+        margin-top: 6px;
+        margin-right: 50px;
+        font-family: 'NeueHaasUnica';
+      }
+
+      .itemContainer{
+        display: flex;
+        margin-top: 6px;
+        align-items: center;
+        margin-left: 20px;
+        text-decoration: none;
+        color: white;
+        font-family: 'NeueHaasUnica';
+
+
+      }
+
+      .worksT{
+        text-decoration: none;
+        color: white;
+        font-size: 14px;
+        font-family: 'NeueHaasUnica';
+
+
+      }
+
+       .contactT {
+         text-decoration: none;
+         color: white;
+         font-size: 14px;
+         font-family: 'NeueHaasUnica';
+
+
+       }
+       .portfolioT {
+         text-decoration: none;
+         color: white;
+         font-size: 14px;
+         font-family: 'NeueHaasUnica';
+
+       }
+       .aboutT {
+         text-decoration: none;
+         color: white;
+         font-size: 14px;
+         font-family: 'NeueHaasUnica';
+
+       }
+
+     }
+
+
+    .right{
+      display: flex;
+      align-items: center;
+        .itemContainer2 {
+          display: flex;
+          margin-top: 6px;
+          align-items: center;
+          margin-left: 10px;
+          text-decoration: none;
+          color: white;
+
+        }
+
+        .linkedin {
+          text-decoration: none;
+          color: white;
+          font-size: 14px;
+          font-family: 'NeueHaasUnica';
+
+        }
+
+        .github {
+          text-decoration: none;
+          color: white;
+          font-size: 14px;
+          font-family: 'NeueHaasUnica';
+
+        }
+
+        .mail {
+          text-decoration: none;
+          color: white;
+          font-size: 14px;
+          font-family: 'NeueHaasUnica';
+
+        }
+    }
+
+  }
+
 }
