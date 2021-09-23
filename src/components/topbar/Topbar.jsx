@@ -10,9 +10,6 @@ export default function Topbar() {
               <a href="#works" className="worksT">Work</a>
             </div>
             <div className="itemContainer">
-              <a href="#portfolio" className="portfolioT">Portfolio</a>
-            </div>
-            <div className="itemContainer">
               <a href="#about" className="aboutT">About</a>
             </div>
             <div className="itemContainer">
