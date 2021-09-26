@@ -6,6 +6,10 @@ export default function About() {
         <div className="hola">
           <h1>About.</h1>
         </div>
+        <div className="iconabout">
+        <a href="#description">
+          <img src="assets/arrow-down.png" alt="down arrow"></img></a>
+        </div>
     </div>
 
 

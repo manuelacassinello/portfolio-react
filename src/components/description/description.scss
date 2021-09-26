@@ -4,49 +4,68 @@
 
 .hey{
 
+  .box{
+
+    --editor-border-color: transparent;
+    direction: ltr;
+    overflow: hidden;
+    width: 117.972%;
+    height: 117.972%;
+    zoom: 1.17972;
+    transform: scale(0.847656);
+    transform-origin: left top;
+  }
   h1{
    font-family: 'NeueHaasUnica';
-   font-size: 56px;
+   font-size: 121px;
    text-align: left;
    /* text-align: left; */
-   width: 434px;
-   margin-left: 219px;
+   width: 679px;
+   margin-left: 170px;
    margin-top: 67px;
-    line-height: 60px;
-
+   line-height: 127.4px;
   }
 
   h2{
-     font-family: 'NeueHaasUnica';
-     font-size: 14px;
-     margin-top: 39px;
-     margin-left: 219px;
-     width: 242px;
-     letter-spacing: 0.6px;
-     line-height: 22px;
+    font-family: 'NeueHaasUnica';
+    font-size: 15px;
+    margin-top: -3px;
+    margin-left: 169px;
+    width: 379px;
+    /* letter-spacing: 0.6px; */
+    line-height: 22px;
 
   }
+
+  h3 {
+    font-family: 'NeueHaasUnica';
+    font-size: 15px;
+    margin-top: 1px;
+    margin-left: 169px;
+    width: 379px;
+    /* letter-spacing: 0.6px; */
+    line-height: 22px;
+
+  }
+
+  .profilepic{
+        margin-top: -340px;
+        margin-left: 657px;
+
+
+    img{
+      width: 700px;
+    }
+  }
+
 }
 
-.heyo{
-   display: flex;
 
-  h3{
+.iconblack{
 
-        font-family: 'NeueHaasUnica';
-        font-size: 29px;
-        margin-left: 219px;
-        margin-top: 95px;
-        width: 269px;
-        line-height: 33px;
-  }
-
-  h4{
-        margin-top: 96px;
-        font-family: 'NeueHaasUnica';
-        margin-left: 110px;
-        width: 378px;
-         line-height: 22px;
-
+  img{
+    width: 25px;
+    margin-left: 20px;
+        margin-top: 50px;
   }
 }
