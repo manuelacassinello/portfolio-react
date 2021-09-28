@@ -1,4 +1,6 @@
+
 import "./intro.scss"
+
 
 export default function intro() {
   return (
@@ -6,4 +8,5 @@ export default function intro() {
 
     </div>
   )
+
 }
