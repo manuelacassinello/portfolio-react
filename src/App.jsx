@@ -5,7 +5,7 @@ import Contact from "./components/contact/Contact";
 import About from "./components/about/About";
 import Description from "./components/description/Description";
 import "./app.scss";
-import Animation from "./components/Animation/Animation";
+
 
 
 
@@ -21,7 +21,8 @@ function App() {
        <About/>
        <Description/>
        <Contact />
-       <Animation/>
+
+
      </div>
     </div>
   );
