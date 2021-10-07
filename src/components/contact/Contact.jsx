@@ -11,7 +11,7 @@ export default function Contact() {
           <img src="assets/arrow.png" alt="down arrow"></img></a>
       </div>
      <div className="presentation">
-       <h1>Made by Manuela Cassinello</h1>
+       <h1>2021 | Manuela Cassinello</h1>
      </div>
     </div>
 
