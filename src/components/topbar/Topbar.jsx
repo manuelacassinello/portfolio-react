@@ -26,6 +26,9 @@ export default function Topbar() {
             <div className="itemContainer2">
               <a href="mailto:mrac.in@icloud.com" className="mail">MAIL</a>
             </div>
+            <div className="itemContainer2">
+            <a href="https://drive.google.com/file/d/1ZHm6yyxC7KSiD_cYVn_PyewXvzY9gk8i/view?usp=sharing" className="CV">CV</a>
+            </div>
           </div>
       </div>
     </div>
