@@ -1,71 +1,25 @@
 .description{
   background-color: white;
-}
 
-.hey{
 
-  .box{
+  .profilepic {
+    img {
 
-    --editor-border-color: transparent;
-    direction: ltr;
-    overflow: hidden;
-    width: 117.972%;
-    height: 117.972%;
-    zoom: 1.17972;
-    transform: scale(0.847656);
-    transform-origin: left top;
-  }
-  h1{
-   font-family: 'NeueHaasUnica';
-   font-size: 121px;
-   text-align: left;
-   /* text-align: left; */
-   width: 679px;
-   margin-left: 170px;
-   margin-top: 67px;
-   line-height: 127.4px;
-  }
-
-  h2{
-    font-family: 'NeueHaasUnica';
-    font-size: 15px;
-    margin-top: -3px;
-    margin-left: 169px;
-    width: 379px;
-    /* letter-spacing: 0.6px; */
-    line-height: 22px;
+          width: 1059px;
+          margin-left: 219px;
+          margin-top: -4px;
+    }
 
   }
 
-  h3 {
-    font-family: 'NeueHaasUnica';
-    font-size: 15px;
-    margin-top: 1px;
-    margin-left: 169px;
-    width: 379px;
-    /* letter-spacing: 0.6px; */
-    line-height: 22px;
+  .iconblack {
 
-  }
-
-  .profilepic{
-        margin-top: -340px;
-        margin-left: 657px;
-
-
-    img{
-      width: 700px;
+    img {
+      width: 25px;
+      margin-left: 20px;
+      margin-top: 0px;
     }
   }
 
-}
 
-
-.iconblack{
-
-  img{
-    width: 25px;
-    margin-left: 20px;
-        margin-top: 50px;
-  }
 }
