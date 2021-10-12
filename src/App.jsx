@@ -5,6 +5,7 @@ import Contact from "./components/contact/Contact";
 import About from "./components/about/About";
 import Description from "./components/description/Description";
 import Taa from "./components/taa/Taa";
+import Extinct from "./components/extinct/Extinct";
 import "./app.scss";
 
 
@@ -23,6 +24,7 @@ function App() {
        <Description/>
        <Contact />
        <Taa />
+        <Extinct />
 
 
      </div>

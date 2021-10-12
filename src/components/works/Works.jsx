@@ -22,7 +22,9 @@ export default function works() {
             </Card.Body>
           </Card>
           <Card style={{ width: '18rem' }}>
-          <Card.Img variant="top" src="https://res.cloudinary.com/manuelacass/image/upload/v1633541451/Screenshot_2021-10-06_at_19.26.47_ozjqsy.png" />
+            <a href="#extinct" className="extinct">
+               <Card.Img variant="top" src="https://res.cloudinary.com/manuelacass/image/upload/v1633541451/Screenshot_2021-10-06_at_19.26.47_ozjqsy.png" />
+             </a>
             <Card.Body>
               <Card.Title>Extinct Animals</Card.Title>
               <Card.Text>
