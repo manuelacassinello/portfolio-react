@@ -17,7 +17,7 @@ export default function works() {
             <Card.Body>
               <Card.Title>Taa</Card.Title>
               <Card.Text>
-                Web App
+                Mobile Web App
               </Card.Text>
             </Card.Body>
           </Card>

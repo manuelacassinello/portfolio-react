@@ -3,6 +3,7 @@ import "./taa.scss"
 export default function Taa () {
   return (
     <div className="taap" id="taap">
+
       <div className="compo">
         <div className="imagen">
           <img src="assets/movile.png" alt="k"></img>
