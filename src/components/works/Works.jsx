@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-has-content */
 import "./works.scss"
 import Card from 'react-bootstrap/Card';
 
@@ -10,7 +11,9 @@ export default function works() {
       <h2> 01 Taa |  02 Extinct Animals | 03 Bounce |  04 La Caldera </h2>
       <div className="list">
           <Card style={{ width: '18rem' }}>
-            <Card.Img variant="top" src="https://res.cloudinary.com/manuelacass/image/upload/v1633166027/Screenshot_2021-10-02_at_11.13.11_eeosr2.png"/>
+          <a href="#taap" className="taap">
+            <Card.Img variant="top" src="https://res.cloudinary.com/manuelacass/image/upload/v1633166027/Screenshot_2021-10-02_at_11.13.11_eeosr2.png" />
+          </a>
             <Card.Body>
               <Card.Title>Taa</Card.Title>
               <Card.Text>
