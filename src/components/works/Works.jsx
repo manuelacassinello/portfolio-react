@@ -7,7 +7,7 @@ export default function works() {
   return (
     <div className="works" id="works">
 
-      <h1>PROJECTS</h1>
+
       <h2> 01 Taa |  02 Extinct Animals | 03 Bounce |  04 La Caldera </h2>
       <div className="list">
           <Card style={{ width: '18rem' }}>
@@ -33,7 +33,9 @@ export default function works() {
             </Card.Body>
           </Card>
           <Card style={{ width: '18rem' }}>
-          <Card.Img variant="top" src="https://res.cloudinary.com/manuelacass/image/upload/v1633168901/Screenshot_2021-10-02_at_12.01.25_lhr3ra.png" />
+          <a href="#bounce" className="bounce">
+             <Card.Img variant="top" src="https://res.cloudinary.com/manuelacass/image/upload/v1633168901/Screenshot_2021-10-02_at_12.01.25_lhr3ra.png" />
+          </a>
             <Card.Body>
               <Card.Title>Bounce</Card.Title>
               <Card.Text>

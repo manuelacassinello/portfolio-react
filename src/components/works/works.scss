@@ -1,22 +1,14 @@
 .works{
   background-color: white;
 
-  h1{
-        font-size: 34px;
-        font-family: 'Cormorant Garamond',
-        serif;
-        text-align: center;
-        margin-top: 44px;
-
-
-  }
 
   h2 {
-       font-size: 17px;
-       font-family: 'Cormorant Garamond',
-       serif;
-       text-align: center;
-       margin-top: 14px;
+    margin-top: 40px;
+    font-size: 15px;
+      font-family: 'NeueHaasUnica';
+      text-align: center;
+
+      font-weight: 100;
 
 
 
@@ -25,6 +17,7 @@
   .list{
     display: flex;
     margin-left: 32px;
+    margin-top: 30px;
   }
 
   .card{
