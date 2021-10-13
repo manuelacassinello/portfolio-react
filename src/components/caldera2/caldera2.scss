@@ -1,0 +1,71 @@
+.caldera2 {
+  background-color: white;
+
+  .compo {
+    display: flex;
+
+    .imagen {
+
+
+      img {
+          width: 824px;
+          margin-top: 42px;
+          margin-left: 284px;
+
+
+      }
+
+    }
+
+  }
+
+
+  .tt{
+   display: flex;
+
+      h1 {
+      color: black;
+      margin-top: 6px;
+      font-family: 'NeueHaasUnica';
+      font-size: 13px;
+      margin-left: 70px;
+      width: 425px;
+      line-height: 20px;
+
+      }
+
+      h2 {
+        color: black;
+        margin-top: 6px;
+        font-family: 'NeueHaasUnica';
+        font-size: 13px;
+        margin-left: 70px;
+        width: 425px;
+        line-height: 20px;
+
+      }
+
+        h3 {
+        color: black;
+        margin-top: 6px;
+        font-family: 'NeueHaasUnica';
+        font-size: 13px;
+        margin-left: 70px;
+        width: 425px;
+        line-height: 20px;
+
+        }
+  }
+
+  .iconabout {
+    img {
+      width: 25px;
+      margin-left: 20px;
+      margin-top: 33px;
+
+    }
+
+  }
+
+
+}

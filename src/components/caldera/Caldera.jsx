@@ -14,7 +14,7 @@ export default function Caldera() {
       <h1>La Caldera - Les Corts</h1>
 
       <div className="iconabout">
-        <a href="#bounce2">
+        <a href="#caldera2">
           <img src="assets/icon-black.png" alt="down arrow"></img></a>
       </div>
 
