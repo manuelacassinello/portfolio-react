@@ -44,7 +44,9 @@ export default function works() {
             </Card.Body>
           </Card>
           <Card style={{ width: '18rem' }}>
-          <Card.Img variant="top" src="https://res.cloudinary.com/manuelacass/image/upload/v1633953939/Mockup_Tarjeta_Visita_a6zoxa.jpg" />
+           <a href="#caldera" className="caldera">
+             <Card.Img variant="top" src="https://res.cloudinary.com/manuelacass/image/upload/v1633953939/Mockup_Tarjeta_Visita_a6zoxa.jpg" />
+          </a>
             <Card.Body>
               <Card.Title>La Caldera</Card.Title>
               <Card.Text>

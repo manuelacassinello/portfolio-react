@@ -12,7 +12,7 @@ export default function Bounce() {
       <h1>BOUNCE /baʊns/</h1>
 
       <div className="iconabout">
-        <a href="#description">
+        <a href="#bounce2">
           <img src="assets/arrow-down.png" alt="down arrow"></img></a>
       </div>
 

@@ -8,7 +8,7 @@ import Taa from "./components/taa/Taa";
 import Extinct from "./components/extinct/Extinct";
 import Bounce from "./components/bounce/Bounce";
 import Bounce2 from "./components/bounce2/Bounce2";
-
+import Caldera from "./components/caldera/Caldera";
 import "./app.scss";
 
 
@@ -30,6 +30,7 @@ function App() {
         <Extinct />
         <Bounce />
         <Bounce2 />
+        <Caldera />
 
 
      </div>
