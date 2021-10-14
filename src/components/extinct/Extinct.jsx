@@ -20,6 +20,11 @@ export default function Extinct() {
           </div>
         </div>
       </div>
+      <div className="iconabout">
+        <a href="#bounce">
+          <img src="assets/icon-black.png" alt="down arrow"></img></a>
+      </div>
+
 
 
 

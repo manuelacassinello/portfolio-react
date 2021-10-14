@@ -24,15 +24,16 @@ function App() {
      <div className="sections">
        <Intro/>
        <Works/>
-       <About/>
-       <Description/>
-       <Contact />
-       <Taa />
+        <Taa />
         <Extinct />
         <Bounce />
         <Bounce2 />
         <Caldera />
         <Caldera2 />
+       <About/>
+       <Description/>
+       <Contact />
+
 
 
      </div>
