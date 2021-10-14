@@ -3,34 +3,33 @@
 
   .compo {
     display: flex;
+       margin-top: -59px;
 
     .imagen {
 
 
       img {
-          width: 824px;
-          margin-top: 42px;
-          margin-left: 284px;
+      width: 832px;
+      margin-top: 123px;
+      margin-left: 63px;
+
 
 
       }
 
     }
+    .tt {
 
-  }
-
-
-  .tt{
-   display: flex;
 
       h1 {
-      color: black;
-      margin-top: 6px;
-      font-family: 'NeueHaasUnica';
-      font-size: 13px;
-      margin-left: 70px;
-      width: 425px;
-      line-height: 20px;
+        color: black;
+        margin-top: 132px;
+        font-family: 'NeueHaasUnica';
+        font-size: 13px;
+        margin-left: 70px;
+        width: 425px;
+        line-height: 20px;
+        text-align: left;
 
       }
 
@@ -42,10 +41,11 @@
         margin-left: 70px;
         width: 425px;
         line-height: 20px;
+        text-align: left;
 
       }
 
-        h3 {
+      h3 {
         color: black;
         margin-top: 6px;
         font-family: 'NeueHaasUnica';
@@ -53,17 +53,43 @@
         margin-left: 70px;
         width: 425px;
         line-height: 20px;
+        text-align: left;
 
-        }
+      }
+    }
+
   }
 
+
+
+
   .iconabout {
+        margin-top: 84px;
+
     img {
       width: 25px;
       margin-left: 20px;
-      margin-top: 33px;
+      margin-top:0px;
 
     }
+
+  }
+
+  h1{
+   color: black;
+   margin-top: 53px;
+   font-family: 'NeueHaasUnica';
+   font-size: 34px;
+   text-align: center;
+
+  }
+
+  h2{
+  color: black;
+  margin-top: 10px;
+  font-family: 'NeueHaasUnica';
+  font-size: 19px;
+  text-align: center;
 
   }
 
