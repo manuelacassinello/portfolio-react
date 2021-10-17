@@ -33,7 +33,7 @@ export default function works() {
             </Card.Body>
           </Card>
           <Card style={{ width: '18rem' }}>
-          <a href="#bounce" className="bounce">
+          <a href="#bounce" className="bouncei">
              <Card.Img variant="top" src="https://res.cloudinary.com/manuelacass/image/upload/v1633168901/Screenshot_2021-10-02_at_12.01.25_lhr3ra.png" />
           </a>
             <Card.Body>
@@ -54,6 +54,31 @@ export default function works() {
               </Card.Text>
             </Card.Body>
           </Card>
+      </div>
+      <div className="list2">
+        <Card style={{ width: '18rem' }}>
+          <a href="#taap" className="taap">
+            <Card.Img variant="top" src="https://res.cloudinary.com/manuelacass/image/upload/v1633166027/Screenshot_2021-10-02_at_11.13.11_eeosr2.png" />
+          </a>
+          <Card.Body>
+            <Card.Title>Taa</Card.Title>
+            <Card.Text>
+              Mobile Web App
+            </Card.Text>
+          </Card.Body>
+        </Card>
+        <Card style={{ width: '18rem' }}>
+          <a href="#taap" className="taap">
+            <Card.Img variant="top" src="https://res.cloudinary.com/manuelacass/image/upload/v1633166027/Screenshot_2021-10-02_at_11.13.11_eeosr2.png" />
+          </a>
+          <Card.Body>
+            <Card.Title>Taa</Card.Title>
+            <Card.Text>
+              Mobile Web App
+            </Card.Text>
+          </Card.Body>
+        </Card>
+
       </div>
 
     </div>

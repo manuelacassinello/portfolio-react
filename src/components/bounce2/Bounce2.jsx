@@ -51,8 +51,8 @@ export default function Bounce2() {
 
           </div>
 
-          <video loop autoPlay className="video">
-            <source src="https://res.cloudinary.com/manuelacass/video/upload/v1634115510/on_pdll9t.mp4" type="video/mp4" />
+        <video loop autoPlay muted className="video">
+          <source src="https://res.cloudinary.com/manuelacass/video/upload/v1634115510/on_pdll9t.mp4" type="video/mp4" />
           </video>
 
       </div>
