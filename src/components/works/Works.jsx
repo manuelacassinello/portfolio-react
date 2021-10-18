@@ -57,7 +57,7 @@ export default function works() {
       </div>
       <div className="list2">
         <Card style={{ width: '18rem' }}>
-          <a href="#taap" className="taap">
+          <a href="#apocalipsis" className="apocalipsis">
             <Card.Img variant="top" src="https://res.cloudinary.com/manuelacass/image/upload/v1633166027/Screenshot_2021-10-02_at_11.13.11_eeosr2.png" />
           </a>
           <Card.Body>

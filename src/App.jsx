@@ -10,6 +10,7 @@ import Bounce from "./components/bounce/Bounce";
 import Bounce2 from "./components/bounce2/Bounce2";
 import Caldera from "./components/caldera/Caldera";
 import Caldera2 from "./components/caldera2/Caldera2";
+import Apocalipsis from "./components/apocalipsis/Apocalipsis";
 import "./app.scss";
 
 
@@ -30,6 +31,7 @@ function App() {
         <Bounce2 />
         <Caldera />
         <Caldera2 />
+        <Apocalipsis />
        <About/>
        <Description/>
        <Contact />
