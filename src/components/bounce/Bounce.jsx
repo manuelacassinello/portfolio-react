@@ -8,16 +8,11 @@ export default function Bounce() {
             <img src="assets/cinco.png" alt="k"></img>
           </div>
         </div>
-
       <h1>BOUNCE /baʊns/</h1>
-
       <div className="iconabout">
         <a href="#bounce2">
           <img src="assets/arrow-down.png" alt="down arrow"></img></a>
       </div>
-
     </div>
-
-
   )
 }

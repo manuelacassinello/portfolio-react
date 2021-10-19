@@ -11,7 +11,5 @@ export default function About() {
           <img src="assets/arrow-down.png" alt="down arrow"></img></a>
         </div>
     </div>
-
-
   );
 }
