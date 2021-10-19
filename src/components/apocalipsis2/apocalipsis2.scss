@@ -1,0 +1,66 @@
+.apocalipsis2 {
+  background: black;
+
+  .bb {
+
+    display: flex;
+    margin-top: 20px;
+    margin-left: 294px;
+
+   .apo-img{
+     img{
+       width: 415px;
+     }
+   }
+
+
+
+    .texti {
+      h1 {
+        color: white;
+        font-size: 14px;
+        font-family: 'NeueHaasUnica';
+        margin-top: -1px;
+        line-height: 20px;
+        width: 365px;
+        margin-left: 64px;
+        text-align: left;
+
+      }
+
+      h2 {
+        color: white;
+        font-size: 14px;
+        font-family: 'NeueHaasUnica';
+        margin-top: 10px;
+        line-height: 20px;
+        width: 365px;
+        margin-left: 64px;
+        text-align: left;
+      }
+
+      h3 {
+        color: white;
+        font-size: 14px;
+        font-family: 'NeueHaasUnica';
+        margin-top: -1px;
+        line-height: 20px;
+        width: 365px;
+        margin-left: 64px;
+        text-align: left;
+      }
+
+      h6 {
+        color: white;
+        font-family: 'NeueHaasUnica';
+        font-size: 12px;
+        width: 304px;
+        margin-top: 20px;
+        line-height: 17px;
+        margin-left: 63px;
+      }
+    }
+
+
+  }
+}

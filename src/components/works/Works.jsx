@@ -8,7 +8,7 @@ export default function works() {
     <div className="works" id="works">
 
 
-      <h2> 01 Taa |  02 Extinct Animals | 03 Bounce |  04 La Caldera </h2>
+
       <div className="list">
           <Card style={{ width: '18rem' }}>
           <a href="#taap" className="taap">
@@ -33,7 +33,7 @@ export default function works() {
             </Card.Body>
           </Card>
           <Card style={{ width: '18rem' }}>
-          <a href="#bounce" className="bounce">
+          <a href="#bounce" className="bouncei">
              <Card.Img variant="top" src="https://res.cloudinary.com/manuelacass/image/upload/v1633168901/Screenshot_2021-10-02_at_12.01.25_lhr3ra.png" />
           </a>
             <Card.Body>
@@ -54,6 +54,21 @@ export default function works() {
               </Card.Text>
             </Card.Body>
           </Card>
+      </div>
+      <div className="list2">
+        <Card style={{ width: '18rem' }}>
+          <a href="#apocalipsis" className="apocalipsisi">
+            <Card.Img variant="top" src="https://res.cloudinary.com/manuelacass/image/upload/v1634573873/1_l5ebof.jpg" />
+          </a>
+          <Card.Body>
+            <Card.Title>777</Card.Title>
+            <Card.Text>
+              Art Direction
+            </Card.Text>
+          </Card.Body>
+        </Card>
+
+
       </div>
 
     </div>
