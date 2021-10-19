@@ -11,10 +11,10 @@ export default function Apocalipsis() {
         </div>
       </div>
 
-      <h1>BOUNCE /baʊns/</h1>
+      <h1>777</h1>
 
       <div className="iconabout">
-        <a href="#bounce2">
+        <a href="#apocalipsis2">
           <img src="assets/arrow-down.png" alt="down arrow"></img></a>
       </div>
 

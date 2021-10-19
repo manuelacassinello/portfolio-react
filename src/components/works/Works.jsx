@@ -57,13 +57,13 @@ export default function works() {
       </div>
       <div className="list2">
         <Card style={{ width: '18rem' }}>
-          <a href="#apocalipsis" className="apocalipsis">
-            <Card.Img variant="top" src="https://res.cloudinary.com/manuelacass/image/upload/v1633166027/Screenshot_2021-10-02_at_11.13.11_eeosr2.png" />
+          <a href="#apocalipsis" className="apocalipsisi">
+            <Card.Img variant="top" src="https://res.cloudinary.com/manuelacass/image/upload/v1634573873/1_l5ebof.jpg" />
           </a>
           <Card.Body>
-            <Card.Title>Taa</Card.Title>
+            <Card.Title>777</Card.Title>
             <Card.Text>
-              Mobile Web App
+              Art Direction
             </Card.Text>
           </Card.Body>
         </Card>
