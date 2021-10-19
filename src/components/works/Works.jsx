@@ -8,7 +8,7 @@ export default function works() {
     <div className="works" id="works">
 
 
-      <h2> 01 Taa |  02 Extinct Animals | 03 Bounce |  04 La Caldera </h2>
+
       <div className="list">
           <Card style={{ width: '18rem' }}>
           <a href="#taap" className="taap">
@@ -67,17 +67,7 @@ export default function works() {
             </Card.Text>
           </Card.Body>
         </Card>
-        <Card style={{ width: '18rem' }}>
-          <a href="#taap" className="taap">
-            <Card.Img variant="top" src="https://res.cloudinary.com/manuelacass/image/upload/v1633166027/Screenshot_2021-10-02_at_11.13.11_eeosr2.png" />
-          </a>
-          <Card.Body>
-            <Card.Title>Taa</Card.Title>
-            <Card.Text>
-              Mobile Web App
-            </Card.Text>
-          </Card.Body>
-        </Card>
+
 
       </div>
 

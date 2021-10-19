@@ -5,7 +5,7 @@ export default function Apocalipsis() {
     <div className="apocalipsis" id="apocalipsis">
       <div className="compo">
         <div className="imagen">
-          <img src="assets/7.jpg" alt="k"></img>
+          <img src="assets/007.jpg" alt="k"></img>
           <img src="assets/13.jpg" alt="k"></img>
           <img src="assets/4.jpg" alt="k"></img>
         </div>
