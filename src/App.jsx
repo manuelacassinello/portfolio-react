@@ -34,6 +34,7 @@ function App() {
         <Caldera2 />
         <Apocalipsis />
         <Apocalipsis2 />
+
        <About/>
        <Description/>
        <Contact />
